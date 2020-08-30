@@ -1,6 +1,6 @@
 [package]
 name = "rm_grab"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["pegasis <admin@pegasis.site>"]
 edition = "2018"
 
