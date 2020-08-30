@@ -32,6 +32,4 @@ fn main() {
         }
         sleep(Duration::from_millis(50))
     }
-
-    sleep(Duration::from_secs(*&args[2].parse::<u64>().unwrap()));
 }
